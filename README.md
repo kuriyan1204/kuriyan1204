@@ -1,3 +1,10 @@
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=kuriyan1204&count_private=true&show_icons=ture" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kuriyan1204" />
+</a>
+
 - 👋 Hi, I’m @kuriyan1204 from Sendai, Japan. And I am a CS student at Tohoku University, Japan.
 - 👀 I’m interested in Machine Learning and other related technologies. 
 
